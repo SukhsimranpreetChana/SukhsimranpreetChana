@@ -14,7 +14,7 @@
 
 </div>
 
-<div align="center"><img src="./images/texture-divider-rounded.png" width="92%" alt="" /></div>
+<div align="center"><img src="./images/texture-divider-rounded.png" width="100%" alt="" /></div>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=220&height=42&lines=About+Me"
@@ -31,7 +31,7 @@ My work currently revolves around:
 
 I enjoy experimenting, learning new technologies, and building things that are equal parts practical, creative, and slightly ridiculous. I love working with like-minded people!
 
-<div align="center"><img src="./images/texture-divider-rounded.png" width="92%" alt="" /></div>
+<div align="center"><img src="./images/texture-divider-rounded.png" width="100%" alt="" /></div>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=390&height=42&lines=Languages+I've+Coded+In"
@@ -55,7 +55,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
-<div align="center"><img src="./images/texture-divider-rounded.png" width="92%" alt="" /></div>
+<div align="center"><img src="./images/texture-divider-rounded.png" width="100%" alt="" /></div>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=260&height=42&lines=Tools+I've+Used"
@@ -75,7 +75,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
-<div align="center"><img src="./images/texture-divider-rounded.png" width="92%" alt="" /></div>
+<div align="center"><img src="./images/texture-divider-rounded.png" width="100%" alt="" /></div>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=330&height=42&lines=Things+I've+Created"
@@ -92,7 +92,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
-<div align="center"><img src="./images/texture-divider-rounded.png" width="92%" alt="" /></div>
+<div align="center"><img src="./images/texture-divider-rounded.png" width="100%" alt="" /></div>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=180&height=42&lines=Contact"
@@ -103,7 +103,7 @@ For professional inquiries, collaborations, or project conversations:
 
 [![Email](https://img.shields.io/badge/Email-sukhsimran.chana%40gmail.com-FF5364?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:sukhsimran.chana@gmail.com)
 
-<div align="center"><img src="./images/texture-divider-rounded.png" width="92%" alt="" /></div>
+<div align="center"><img src="./images/texture-divider-rounded.png" width="100%" alt="" /></div>
 
 <div align="center">
 
@@ -113,7 +113,7 @@ For professional inquiries, collaborations, or project conversations:
 />
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&color=0:FF5364,100:78008A"
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:FF5364,100:78008A"
   width="100%"
   alt="Footer"
 />
