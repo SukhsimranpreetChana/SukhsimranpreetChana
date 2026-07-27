@@ -73,6 +73,14 @@ For professional inquiries, collaborations, or project conversations:
 
 ### Thanks for visiting!
 
+<br>
+
+<img
+  src="./images/gallery.gif"
+  width="820"
+  alt="Project and community highlights"
+/>
+
 <br><br>
 
 <img
