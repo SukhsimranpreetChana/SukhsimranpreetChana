@@ -1,14 +1,14 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=38&duration=3000&pause=900&color=4493F8&center=true&vCenter=true&width=850&lines=Hiya%2C+I'm+Sukhsimranpreet+Chana!;Incoming+UW+Computer+Science+Student;"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hiya%2C+I'm+Sukhsimranpreet+Chana!;Incoming+UW+Computer+Science+Student;"
   alt="Animated introduction"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=500&size=20&duration=1&pause=999999&color=8C959F&center=true&vCenter=true&repeat=false&width=700&height=35&lines=Software%2C+robotics%2C+media%2C+and+a+few+hardware+projects+%3A%29"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=1&pause=999999&color=8C959F&center=true&vCenter=true&repeat=false&width=700&height=35&lines=Software%2C+robotics%2C+media%2C+and+a+few+hardware+projects+%3A%29"
   alt="Software, robotics, media, and a few hardware projects :)"
 />
 
@@ -17,7 +17,7 @@
 ---
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=4493F8&vCenter=true&repeat=false&width=220&height=42&lines=About+Me"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=220&height=42&lines=About+Me"
   alt="About Me"
 />
 
@@ -34,12 +34,12 @@ I enjoy experimenting, learning new technologies, and building things that are e
 ---
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=4493F8&vCenter=true&repeat=false&width=390&height=42&lines=Languages+I've+Coded+In"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=390&height=42&lines=Languages+I've+Coded+In"
   alt="Languages I've Coded In"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=500&size=16&duration=1&pause=999999&color=8C959F&vCenter=true&repeat=false&width=280&height=28&lines=%28Somewhat%2C+at+least...+%F0%9F%A5%B2%29"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=1&pause=999999&color=8C959F&vCenter=true&repeat=false&width=280&height=28&lines=%28Somewhat%2C+at+least...+%F0%9F%A5%B2%29"
   alt="(Somewhat, at least... 🥲)"
 />
 
@@ -58,7 +58,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 ---
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=4493F8&vCenter=true&repeat=false&width=260&height=42&lines=Tools+I've+Use"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=260&height=42&lines=Tools+I've+Use"
   alt="Tools I've Use"
 />
 
@@ -78,7 +78,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 ---
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=4493F8&vCenter=true&repeat=false&width=180&height=42&lines=Contact"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=180&height=42&lines=Contact"
   alt="Contact"
 />
 
@@ -91,7 +91,7 @@ For professional inquiries, collaborations, or project conversations:
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=26&duration=1&pause=999999&color=4493F8&center=true&vCenter=true&repeat=false&width=320&height=42&lines=Thanks+for+visiting!"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=320&height=42&lines=Thanks+for+visiting!"
   alt="Thanks for visiting!"
 />
 
