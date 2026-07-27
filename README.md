@@ -1,19 +1,25 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Hiya%2C+I'm+Sukhsimranpreet+Chana!;Incoming+UW+Computer+Science+Student;Builder+of+Useful+and+Questionably+Useful+Things"
+  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=38&duration=3000&pause=900&color=B85C38&center=true&vCenter=true&width=850&lines=Hiya%2C+I'm+Sukhsimranpreet+Chana!;Incoming+UW+Computer+Science+Student;Builder+of+Useful+and+Questionably+Useful+Things"
   alt="Animated introduction"
 />
 
 <br>
 
-### Software, robotics, media, and a few hardware projects :)
+<img
+  src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=500&size=20&duration=1&pause=999999&color=8A725E&center=true&vCenter=true&repeat=false&width=700&height=35&lines=Software%2C+robotics%2C+media%2C+and+a+few+hardware+projects+%3A%29"
+  alt="Software, robotics, media, and a few hardware projects :)"
+/>
 
 </div>
 
 ---
 
-## About Me
+<img
+  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=B85C38&vCenter=true&repeat=false&width=220&height=42&lines=About+Me"
+  alt="About Me"
+/>
 
 Hiya! I’m Sukhsimranpreet Chana, an incoming University of Waterloo Computer Science student interested in building random stuff haha...
 
@@ -27,51 +33,67 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 ---
 
-## 💻 Languages I've Coded In  
-#### (Somewhat, at least... 🥲)
+<img
+  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=B85C38&vCenter=true&repeat=false&width=390&height=42&lines=Languages+I've+Coded+In"
+  alt="Languages I've Coded In"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&weight=500&size=16&duration=1&pause=999999&color=8A725E&vCenter=true&repeat=false&width=280&height=28&lines=%28Somewhat%2C+at+least...+%F0%9F%A5%B2%29"
+  alt="(Somewhat, at least... 🥲)"
+/>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=9B4F96)
+![JavaScript](https://img.shields.io/badge/JavaScript-252823?style=flat-square&logo=javascript&logoColor=E9DCC9)
+![TypeScript](https://img.shields.io/badge/TypeScript-252823?style=flat-square&logo=typescript&logoColor=E9DCC9)
+![Python](https://img.shields.io/badge/Python-252823?style=flat-square&logo=python&logoColor=E9DCC9)
+![HTML5](https://img.shields.io/badge/HTML5-252823?style=flat-square&logo=html5&logoColor=E9DCC9)
+![CSS3](https://img.shields.io/badge/CSS3-252823?style=flat-square&logo=css3&logoColor=E9DCC9)
+![C++](https://img.shields.io/badge/C%2B%2B-252823?style=flat-square&logo=cplusplus&logoColor=E9DCC9)
+![C%23](https://img.shields.io/badge/C%23-252823?style=flat-square&logo=csharp&logoColor=E9DCC9)
 
 </div>
 
 ---
 
-## Tools I've Use
+<img
+  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=B85C38&vCenter=true&repeat=false&width=260&height=42&lines=Tools+I've+Use"
+  alt="Tools I've Use"
+/>
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
-![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit&logoColor=F26207)
-![WPILib](https://img.shields.io/badge/WPILib-111111?style=for-the-badge&logo=first&logoColor=ED1C24)
+![Git](https://img.shields.io/badge/Git-252823?style=flat-square&logo=git&logoColor=E9DCC9)
+![GitHub](https://img.shields.io/badge/GitHub-252823?style=flat-square&logo=github&logoColor=E9DCC9)
+![Figma](https://img.shields.io/badge/Figma-252823?style=flat-square&logo=figma&logoColor=E9DCC9)
+![VS Code](https://img.shields.io/badge/VS%20Code-252823?style=flat-square&logo=visualstudiocode&logoColor=E9DCC9)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-252823?style=flat-square&logo=visualstudio&logoColor=E9DCC9)
+![Unity](https://img.shields.io/badge/Unity-252823?style=flat-square&logo=unity&logoColor=E9DCC9)
+![Replit](https://img.shields.io/badge/Replit-252823?style=flat-square&logo=replit&logoColor=E9DCC9)
+![WPILib](https://img.shields.io/badge/WPILib-252823?style=flat-square&logo=first&logoColor=E9DCC9)
 
 </div>
 
 ---
 
-## Contact
+<img
+  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=28&duration=1&pause=999999&color=B85C38&vCenter=true&repeat=false&width=180&height=42&lines=Contact"
+  alt="Contact"
+/>
 
 For professional inquiries, collaborations, or project conversations:
 
-[![Email](https://img.shields.io/badge/Email-sukhsimran.chana%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhsimran.chana@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sukhsimran.chana%40gmail.com-B85C38?style=flat-square&logo=gmail&logoColor=F7EFE2)](mailto:sukhsimran.chana@gmail.com)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+<img
+  src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=26&duration=1&pause=999999&color=B85C38&center=true&vCenter=true&repeat=false&width=320&height=42&lines=Thanks+for+visiting!"
+  alt="Thanks for visiting!"
+/>
 
 <br>
 
@@ -84,7 +106,7 @@ For professional inquiries, collaborations, or project conversations:
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B85C38,100:E9DCC9"
   width="100%"
   alt="Footer"
 />
