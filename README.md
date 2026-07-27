@@ -53,13 +53,13 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F0F6FC)
-![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=F0F6FC)
-![Python](https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=F0F6FC)
-![HTML5](https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=F0F6FC)
-![CSS3](https://img.shields.io/badge/CSS3-21262D?style=flat-square&logo=css3&logoColor=F0F6FC)
-![C++](https://img.shields.io/badge/C%2B%2B-21262D?style=flat-square&logo=cplusplus&logoColor=F0F6FC)
-![C%23](https://img.shields.io/badge/C%23-21262D?style=flat-square&logo=csharp&logoColor=F0F6FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-28042D?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-28042D?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-28042D?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-28042D?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-28042D?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C%2B%2B-28042D?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![C%23](https://img.shields.io/badge/C%23-28042D?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
 
 </div>
 
@@ -72,14 +72,14 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F0F6FC)
-![GitHub](https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=F0F6FC)
-![Figma](https://img.shields.io/badge/Figma-21262D?style=flat-square&logo=figma&logoColor=F0F6FC)
-![VS Code](https://img.shields.io/badge/VS%20Code-21262D?style=flat-square&logo=visualstudiocode&logoColor=F0F6FC)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-21262D?style=flat-square&logo=visualstudio&logoColor=F0F6FC)
-![Unity](https://img.shields.io/badge/Unity-21262D?style=flat-square&logo=unity&logoColor=F0F6FC)
-![Replit](https://img.shields.io/badge/Replit-21262D?style=flat-square&logo=replit&logoColor=F0F6FC)
-![WPILib](https://img.shields.io/badge/WPILib-21262D?style=flat-square&logo=first&logoColor=F0F6FC)
+![Git](https://img.shields.io/badge/Git-28042D?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-28042D?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-28042D?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-28042D?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-28042D?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-28042D?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Replit](https://img.shields.io/badge/Replit-28042D?style=for-the-badge&logo=replit&logoColor=FFFFFF)
+![WPILib](https://img.shields.io/badge/WPILib-28042D?style=for-the-badge&logo=first&logoColor=FFFFFF)
 
 </div>
 
@@ -109,7 +109,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 For professional inquiries, collaborations, or project conversations:
 
-[![Email](https://img.shields.io/badge/Email-sukhsimran.chana%40gmail.com-4493F8?style=flat-square&logo=gmail&logoColor=F0F6FC)](mailto:sukhsimran.chana@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sukhsimran.chana%40gmail.com-FF5364?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:sukhsimran.chana@gmail.com)
 
 <img src="./images/halftone-divider.svg" width="100%" alt="" />
 
@@ -123,7 +123,7 @@ For professional inquiries, collaborations, or project conversations:
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:4493F8,100:21262D"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF5364,100:78008A"
   width="100%"
   alt="Footer"
 />
