@@ -1,3 +1,11 @@
+<img
+  src="./images/profile-banner.png"
+  width="100%"
+  alt=""
+/>
+
+<br>
+
 <div align="center">
 
 <img
@@ -14,7 +22,7 @@
 
 </div>
 
----
+<img src="./images/halftone-divider.svg" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=220&height=42&lines=About+Me"
@@ -25,13 +33,13 @@ Hiya! I’m Sukhsimranpreet Chana, an incoming University of Waterloo Computer S
 
 My work currently revolves around:
 
-- FMC — First Media Community
+- FMC - First Media Community
 - Questionably useful hardware projects, including a 67 bot and a Disney XD wand simulator
 - Robotics with FRC Team 2056
 
 I enjoy experimenting, learning new technologies, and building things that are equal parts practical, creative, and slightly ridiculous. I love working with like-minded people!
 
----
+<img src="./images/halftone-divider.svg" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=390&height=42&lines=Languages+I've+Coded+In"
@@ -55,11 +63,11 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
----
+<img src="./images/halftone-divider.svg" width="100%" alt="" />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=260&height=42&lines=Tools+I've+Use"
-  alt="Tools I've Use"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=260&height=42&lines=Tools+I've+Used"
+  alt="Tools I've Used"
 />
 
 <div align="center">
@@ -75,7 +83,24 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
----
+<img src="./images/halftone-divider.svg" width="100%" alt="" />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=330&height=42&lines=Things+I've+Created"
+  alt="Things I've Created"
+/>
+
+<div align="center">
+
+<img
+  src="./images/gallery.gif"
+  width="820"
+  alt="Project and community highlights"
+/>
+
+</div>
+
+<img src="./images/halftone-divider.svg" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=180&height=42&lines=Contact"
@@ -86,21 +111,13 @@ For professional inquiries, collaborations, or project conversations:
 
 [![Email](https://img.shields.io/badge/Email-sukhsimran.chana%40gmail.com-4493F8?style=flat-square&logo=gmail&logoColor=F0F6FC)](mailto:sukhsimran.chana@gmail.com)
 
----
+<img src="./images/halftone-divider.svg" width="100%" alt="" />
 
 <div align="center">
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=320&height=42&lines=Thanks+for+visiting!"
   alt="Thanks for visiting!"
-/>
-
-<br>
-
-<img
-  src="./images/gallery.gif"
-  width="820"
-  alt="Project and community highlights"
 />
 
 <br><br>
