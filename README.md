@@ -1,11 +1,3 @@
-<img
-  src="./images/profile-banner.png"
-  width="100%"
-  alt=""
-/>
-
-<br>
-
 <div align="center">
 
 <img
@@ -22,7 +14,7 @@
 
 </div>
 
-<img src="./images/halftone-divider.svg" width="100%" alt="" />
+<img src="./images/texture-divider.png" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=220&height=42&lines=About+Me"
@@ -39,7 +31,7 @@ My work currently revolves around:
 
 I enjoy experimenting, learning new technologies, and building things that are equal parts practical, creative, and slightly ridiculous. I love working with like-minded people!
 
-<img src="./images/halftone-divider.svg" width="100%" alt="" />
+<img src="./images/texture-divider.png" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=390&height=42&lines=Languages+I've+Coded+In"
@@ -63,7 +55,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
-<img src="./images/halftone-divider.svg" width="100%" alt="" />
+<img src="./images/texture-divider.png" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=260&height=42&lines=Tools+I've+Used"
@@ -83,7 +75,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
-<img src="./images/halftone-divider.svg" width="100%" alt="" />
+<img src="./images/texture-divider.png" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=330&height=42&lines=Things+I've+Created"
@@ -100,7 +92,7 @@ I enjoy experimenting, learning new technologies, and building things that are e
 
 </div>
 
-<img src="./images/halftone-divider.svg" width="100%" alt="" />
+<img src="./images/texture-divider.png" width="100%" alt="" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&vCenter=true&repeat=false&width=180&height=42&lines=Contact"
@@ -111,7 +103,7 @@ For professional inquiries, collaborations, or project conversations:
 
 [![Email](https://img.shields.io/badge/Email-sukhsimran.chana%40gmail.com-FF5364?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:sukhsimran.chana@gmail.com)
 
-<img src="./images/halftone-divider.svg" width="100%" alt="" />
+<img src="./images/texture-divider.png" width="100%" alt="" />
 
 <div align="center">
 
